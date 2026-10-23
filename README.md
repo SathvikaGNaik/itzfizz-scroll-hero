@@ -66,11 +66,5 @@ Edit the source files, then commit and push your changes to the `main` branch. G
 
 ## Submission links
 
-- **Live webpage:** `https://YOUR-GITHUB-USERNAME.github.io/itzfizz-scroll-hero/`
-- **GitHub repository:** `https://github.com/YOUR-GITHUB-USERNAME/itzfizz-scroll-hero`
-
-Replace `YOUR-GITHUB-USERNAME` after you create the repository and publish the website.
-
-## Notes
-
-This is an original recreation inspired by the assignment reference, not a copy of its source code. Test desktop and mobile widths and verify the live URL before submitting.
+- **Live webpage:** `https://SathvikaGNaik.github.io/itzfizz-scroll-hero/`
+- **GitHub repository:** `https://github.com/SathvikaGNaik/itzfizz-scroll-hero`
