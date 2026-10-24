@@ -1,41 +1,25 @@
-# ITZFIZZ — Scroll-Driven Hero
+# ITZFIZZ — Scroll-driven hero
 
-A premium scroll-driven hero animation built with **React, Vite, Tailwind CSS, and GSAP ScrollTrigger**.
+A responsive React + Vite experience inspired by the supplied “Itz Fizz – Scroll-Driven Hero” reference. The hero uses a pinned GSAP ScrollTrigger timeline to animate the orange car, green reveal, headline, road markings, and metric cards as the visitor scrolls.
 
-## Features
-
-- Sticky full-screen hero stage with a scroll-length timeline.
-- Scroll-linked car movement and lime trail.
-- Letter-by-letter headline reveal.
-- Four metric cards revealed as the user scrolls.
-- Intro entrance motion and responsive layout.
-- Reduced-motion CSS support.
-- Inline SVG car illustration, so no car image asset is required.
-
-## Tech stack
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Vite
-- Tailwind CSS
-- GSAP + ScrollTrigger
+## Design details
+- Premium editorial layout with a soft mineral-grey canvas, near-black road, acid-green reveal, and orange vehicle.
+- Four impact cards based on the reference: 58%, 27%, 23%, and 40%.
+- Responsive desktop/tablet/mobile layouts.
+- Reduced-motion preference styling.
+- Outro section with a return-to-top interaction.
 
 ## Run locally
+Install Node.js LTS from https://nodejs.org/en/download, then run:
 
-### Requirements
-- Node.js 20 or newer recommended
-- npm
-
-### Install and start
 ```bash
 npm install
 npm run dev
 ```
 
-Open the local URL Vite prints in the terminal (usually `http://localhost:5173`).
+Create a production build with `npm run build`.
 
+<<<<<<< HEAD
 ### Build and preview
 ```bash
 npm run build
@@ -68,3 +52,7 @@ Edit the source files, then commit and push your changes to the `main` branch. G
 
 - **Live webpage:** `https://SathvikaGNaik.github.io/itzfizz-scroll-hero/`
 - **GitHub repository:** `https://github.com/SathvikaGNaik/itzfizz-scroll-hero`
+=======
+## Deploy to GitHub Pages
+The repository workflow at `.github/workflows/deploy.yml` builds and deploys the `dist` directory when changes are pushed to `main`. In GitHub, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions**.
+>>>>>>> 6d8b8cf (ITZFIZZ premium scroll experience)
