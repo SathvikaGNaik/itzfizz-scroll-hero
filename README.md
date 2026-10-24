@@ -19,7 +19,6 @@ npm run dev
 
 Create a production build with `npm run build`.
 
-<<<<<<< HEAD
 ### Build and preview
 ```bash
 npm run build
@@ -52,7 +51,5 @@ Edit the source files, then commit and push your changes to the `main` branch. G
 
 - **Live webpage:** `https://SathvikaGNaik.github.io/itzfizz-scroll-hero/`
 - **GitHub repository:** `https://github.com/SathvikaGNaik/itzfizz-scroll-hero`
-=======
-## Deploy to GitHub Pages
-The repository workflow at `.github/workflows/deploy.yml` builds and deploys the `dist` directory when changes are pushed to `main`. In GitHub, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions**.
->>>>>>> 6d8b8cf (ITZFIZZ premium scroll experience)
+
+
